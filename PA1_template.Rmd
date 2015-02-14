@@ -5,6 +5,7 @@ output:
     fig_caption: yes
     highlight: kate
     keep_md: yes
+    self_contained: no
     theme: cosmo
 ---
 
